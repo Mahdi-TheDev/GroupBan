@@ -1,6 +1,12 @@
 # GroupBan
-![GroupBan Logo](https://github.com/user-attachments/assets/7ba60690-6dbc-409f-97dd-25ad5c674913)
-an Open Source Group Manager Bot for Telegram
-/br
+_an Open Source Group Manager Bot for Telegram_
 
-یک ربات مدیریت گروه برای تلگرام 
+![Groupban](https://github.com/user-attachments/assets/c9531e7e-37ba-43f8-ac4f-a486136ee100)
+
+
+
+## Setup Bot
+Just start Setup file:
+
+
+
